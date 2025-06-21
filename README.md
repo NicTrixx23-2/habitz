@@ -59,8 +59,6 @@ By default, your name and location are saved in a local `data.json` file inside 
 ## 👨‍💻 Developer
 
 **Nico Scholl** — *2025*  
-Feel free to fork, star, or contribute once the repo is public.
-
 ---
 
 ## 📜 License
